@@ -1,0 +1,30 @@
+body{
+    background: url(/bg3.jpg);
+    background-size: cover;
+}
+
+.hammasi{
+    background-color: aqua;
+    border-radius: 20px;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+    height: auto;
+    margin-top: 150px;
+}
+
+.tanishish{
+    width: 600px;
+    border-radius: 20px;
+    border: 1px solid aqua;
+    padding: 10px;
+}
+
+button{
+    background-color: violet;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
